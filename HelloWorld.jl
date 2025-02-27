@@ -1,2 +1,2 @@
 # program to print "Hello World!"
-println("Hello Wold!") 
+println("Hello World!")
