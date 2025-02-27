@@ -1,0 +1,7 @@
+# All files/types of files/folders heare are ignored by git versioning
+
+# Folders
+
+# Files
+
+*.o
